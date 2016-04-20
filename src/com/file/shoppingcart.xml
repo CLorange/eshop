@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cart>
+<goods goodsname="orange" goodsprice="3" goodsnumber="1"/>
+<goods goodsname="香蕉" goodsprice="30" goodsnumber="12"/>
+<goods goodsname="000" goodsprice="12" goodsnumber="36"/>
+<goods goodsname="111" goodsprice="13" goodsnumber="36"/>
+</cart>

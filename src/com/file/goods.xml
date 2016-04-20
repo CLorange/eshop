@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+<good goodsname="3" goodsprice="3"/>
+<good goodsname="111" goodsprice="13"/>
+<user goodsname="orange" goodsprice="5"/>
+<user goodsname="abc" goodsprice="15"/></goods>
